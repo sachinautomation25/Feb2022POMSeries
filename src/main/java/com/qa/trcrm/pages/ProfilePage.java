@@ -15,8 +15,15 @@ public class ProfilePage extends BasePage {
   {
   System.out.println("profile page");
   }
+
 	public void test2()
 	{
 	System.out.println("test2");
 	}
+
+  public void test()
+  {
+  System.out.println("test");
+  }
+
 }
