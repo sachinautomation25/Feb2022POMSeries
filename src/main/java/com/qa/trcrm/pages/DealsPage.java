@@ -1,5 +1,9 @@
 package com.qa.trcrm.pages;
 
-public class DealsPage {
+import com.qa.trcrm.base.BasePage;
 
+public class DealsPage extends BasePage {
+
+	
+	
 }
