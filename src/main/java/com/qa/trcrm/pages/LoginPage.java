@@ -15,6 +15,7 @@ public class LoginPage extends BasePage {
 	By loginBtn = By.xpath("//input[@type='submit']");
 	By SignUpNow = By.linkText("Sign Up Now");
 	By errorMessage = By.xpath("//div[@id='error']");
+	By SignUpNow2 = By.linkText("Sign Up Now");
 
 	ElementUtil util;
 
