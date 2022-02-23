@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="trcrm test suite">
+	<test name="Default test" verbose="2" parallel="tests">
+		<classes>
+
+			<class name="com.qa.trcrm.tests.LoginPageTest"></class>
+			<class name="com.qa.trcrm.tests.HomePageTest"></class>
+		</classes>
+	</test>
+</suite> 
+           
+			
+			

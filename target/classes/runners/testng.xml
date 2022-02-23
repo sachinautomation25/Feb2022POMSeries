@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="trcrm Suite">
+	<listeners>
+		<listener
+			class-name="com.qa.trcrm.listeners.ExtentReportListener"></listener>
+	</listeners>
+	<test name="trcrm Test" verbose="2">
+		<classes>
+			<class name="com.qa.trcrm.tests.LoginPageTest" />
+
+		</classes>
+	</test>
+
+
+	<test name="trcrm test2" verbose="2">
+		<classes>
+			<class name="com.qa.trcrm.tests.HomePageTest" />
+		</classes>
+	</test>
+</suite> <!-- Suite -->

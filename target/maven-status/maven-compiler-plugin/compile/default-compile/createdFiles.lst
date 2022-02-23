@@ -1,0 +1,11 @@
+com\qa\trcrm\base\OptionsManager.class
+com\qa\trcrm\utils\ElementUtil.class
+com\qa\trcrm\pages\ContactPage.class
+com\qa\trcrm\base\BasePage.class
+com\qa\trcrm\base\BasePage3.class
+com\qa\trcrm\utils\AppConstants.class
+com\qa\trcrm\utils\JavaScriptUtil.class
+com\qa\trcrm\pages\HomePage.class
+com\qa\trcrm\listeners\ExtentReportListener.class
+com\qa\trcrm\pages\LoginPage.class
+com\qa\trcrm\base\BasePage2.class
