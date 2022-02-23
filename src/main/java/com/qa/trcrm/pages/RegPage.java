@@ -6,5 +6,7 @@ public class RegPage {
 	{
 		System.out.println("RegPage--start");
 		System.out.println("RegPage--end");
+		
+		System.out.println("");
 	}
 }
