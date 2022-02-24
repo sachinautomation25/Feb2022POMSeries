@@ -18,4 +18,9 @@
 			<class name="com.qa.trcrm.tests.HomePageTest" />
 		</classes>
 	</test>
+	<test name="trcrm test3" verbose="2">
+	<classes>
+	<class name="com.qa.trcrm.tests.ContactsPageTest"></class>
+	</classes>
+	</test>
 </suite> <!-- Suite -->
