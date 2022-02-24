@@ -144,6 +144,7 @@
 				<configuration>
 					
 					<suiteXmlFiles>
+						<!-- <suiteXmlFile>src/main/resources/runners/maven_testng.xml</suiteXmlFile> -->
 						<suiteXmlFile>src/main/resources/runners/maven_testng.xml</suiteXmlFile>
 					</suiteXmlFiles>
 
